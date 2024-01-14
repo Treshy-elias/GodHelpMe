@@ -1,0 +1,55 @@
+ul {
+    list-style: none;
+    text-decoration: none;
+}
+li {
+   list-style: none;
+   
+}
+.flex {
+    display: flex;
+}
+
+.h1 {
+    font-size: 40px;
+}
+.p2 {
+    padding: 8px 0;
+}
+.h2 {
+    font-size: 30px;
+}
+
+.m2 {
+    margin: 30px 5px;
+}
+.card2 {
+    padding: 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px black;
+    background: black;
+    
+    position: absolute;
+    max-width: 120px;
+    max-height: 120px;
+}
+.btn {
+    padding: 10px;
+    background: rgba(0, 29, 29, 0.4) ;
+    border-radius: 20%;
+    color: white;
+
+}
+.btn:hover {
+    transform: scale(.9);
+}
+.read-more {
+    padding: 5px;
+    color: #fff;
+    border: 1px solid cyan;
+}
+.mtop {
+    margin-top: 60px;
+    
+}
